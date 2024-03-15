@@ -1,0 +1,59 @@
+body{   
+    background: url("./background3.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{
+    color: lightgoldenrodyellow;
+    background: rgba(0, 0, 0, 0.5);
+    width: 600px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.name{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(0, 0, 0, 0.5);
+    width:959px;
+    margin: auto;
+    margin-top: 50px;
+    height:50px;
+   
+}
+
+
+h3{
+    color: white;
+    font-size: xx-large;
+    margin-top: 2px;
+}
+
+
+.t{
+    display: flex;
+    justify-content: space-evenly;
+    background: rgba(0, 0, 0, 0.7);
+    margin-top: 50px;
+    width:960px;
+    margin-left: 278px;
+    
+}
+
+
+img{
+    height: 110px;
+    width: 110px;
+    border-radius: 50px 0 50px 0;
+    padding: 10px;
+    border: 1px solid white;
+}
+#hero{
+    margin-right: 150px;
+}
+img:hover{
+    opacity: 0.5;
+}
